@@ -4,7 +4,7 @@
 $config['db_host'] = 'localhost';
 $config['db_user'] = '';
 $config['db_pass'] = '';
-$config['db_name'] = 'moodmaster';
+$config['db_name'] = '';
 
 
 /* Route configs */
